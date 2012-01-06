@@ -14,23 +14,31 @@ $ cp avrduderc ~/.avrduderc
 $ gedit avrduderc
 ```
 
-## ATMEL datasheets
+## ATMEL CPU pinouts
 
 ### ATtiny45
 
-![t45.png](t45.png)
+![t45.png](avr/raw/master/t45.png)
+
+[avr/raw/master/t45.pdf](ATtiny45 datesheet - t45.pdf)
 
 ### ATtiny2313
 
-![t2313.png](t2313.png)
+![t2313.png](avr/raw/master/t2313.png)
+
+[avr/raw/master/t2313.pdf](ATtiny2313 datesheet - t2313.pdf)
 
 ### ATmega8
 
-![m8.png](m8.png)
+![m8.png](avr/raw/master/m8.png)
+
+[avr/raw/master/m8.pdf](ATmega8 datesheet - m8.pdf)
 
 ### ATmega32
 
-![m32.png](m32.png)
+![m32.png](avr/raw/master/m32.png)
+
+[avr/raw/master/m32.pdf](ATmega32 datesheet - m32.pdf)
 
 ## Copyright / Contact
 
