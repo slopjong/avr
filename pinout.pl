@@ -61,7 +61,7 @@ if ($cmd eq "help")      {u()}
 if ($cmd !~ /^($cmds)$/) {u("valid --cmd [$cmds]")}
 
 # bg and fill
-my $bg = "#ffffff"; my $fill = "#ffffff";
+my $bg = "#f8f8f8"; my $fill = "#ffffff";
 
 if ($cmd eq "pinout") {
 	my $subcmd = shift || "list";
