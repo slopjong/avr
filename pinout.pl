@@ -100,7 +100,7 @@ sub pinout_t45 {
     $svg->setAttribute("xmlns:xlink", "http://www.w3.org/1999/xlink");
 
 	# background
-	$svg->appendChild(svg_rect(0, 0, $resX, $resY,undef,undef,"fill:".$bg));
+	$svg->appendChild(svg_rect(1, 1, $resX - 2, $resY - 2,5,5,"fill:".$bg.";stroke:#fcfcfc;stroke-width:1"));
 
 	for my $x ((444, 609)) {
 		for (my $y = 0; $y < 4; $y++) {
@@ -172,7 +172,7 @@ sub pinout_t2313 {
     $svg->setAttribute("xmlns:xlink", "http://www.w3.org/1999/xlink");
 
 	# background
-	$svg->appendChild(svg_rect(0, 0, $resX, $resY,undef,undef,"fill:".$bg));
+	$svg->appendChild(svg_rect(1, 1, $resX - 2, $resY - 2,5,5,"fill:".$bg.";stroke:#fcfcfc;stroke-width:1"));
 
 	for my $x ((294, 459)) {
 		for (my $y = 0; $y <= 9; $y++) {
@@ -239,7 +239,7 @@ sub pinout_m8 {
     $svg->setAttribute("xmlns:xlink", "http://www.w3.org/1999/xlink");
 
 	# background
-	$svg->appendChild(svg_rect(0, 0, $resX, $resY,undef,undef,"fill:".$bg));
+	$svg->appendChild(svg_rect(1, 1, $resX - 2, $resY - 2,5,5,"fill:".$bg.";stroke:#fcfcfc;stroke-width:1"));
 
 	for my $x ((284, 470)) {
 		for (my $y = 0; $y <= 13; $y++) {
@@ -308,7 +308,7 @@ sub pinout_m32 {
     $svg->setAttribute("xmlns:xlink", "http://www.w3.org/1999/xlink");
 
 	# background
-	$svg->appendChild(svg_rect(0, 0, $resX, $resY,undef,undef,"fill:".$bg));
+	$svg->appendChild(svg_rect(1, 1, $resX - 2, $resY - 2,5,5,"fill:".$bg.";stroke:#fcfcfc;stroke-width:1"));
 
 	for my $x ((209, 395)) {
 		for (my $y = 0; $y < 20; $y++) {
