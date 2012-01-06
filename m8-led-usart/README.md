@@ -1,10 +1,11 @@
-# ATmega8 LED blink test
+# ATmega8 LED blink USART test
 
 ### Directory contents
 
+* cmd/              # serial cmd-line Linux tool
 * schematics.png    # circuit schematics  image
 * main.c            # C source code for ATmega8
-* Makefile          # Makefile 
+* Makefile          # Makefile (also defines F_CPU and UART_BAUD)
 * README.md         # this file
 
 ### Build dependencies

@@ -18,4 +18,5 @@ svgs:
 
 clean:
 	make -C m8-led-blink clean
+	make -C m8-led-usart clean
 	/bin/rm -f t45.svg t2313.svg m8.svg m32.svg

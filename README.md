@@ -1,6 +1,9 @@
-# koppi's AVR projects
+## koppi's AVR projects
 
-* m8-led-blink
+### Contents
+
+* m8-led-blink - basic led blink test
+* m8-led-usart - basic led usart test
 
 ### Copyright / Contact
 
