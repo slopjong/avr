@@ -17,7 +17,7 @@ $ eagle
 
 Setup the eagle directories as follows. Add the "$HOME/eagle/..." paths to "Libraries", "Design Rules", "User Language Programs", "Scripts", "CAM Jobs", "Projects" as shown in the following image:
 
-![eagle-directories.png](../avr.wiki/blob/master/img/eagle-directories.png)
+![eagle-directories.png](../../../avr.wiki/blob/master/img/eagle-directories.png)
 
 ### HOWTO export a bill of materials (BOM) in eagle
 
