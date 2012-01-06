@@ -11,7 +11,7 @@
 Checkout the master branch:
 
 ```
-$ git co git://github.com/koppi/avr.git
+$ git clone git://github.com/koppi/avr.git
 ```
 
 ### Install the build dependencies
