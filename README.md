@@ -28,7 +28,7 @@ To make avrdude work with your programmer, copy the file "avrduderc" to your hom
 
 ```
 $ cp avrduderc ~/.avrduderc
-$ gedit avrduderc
+$ gedit ~/.avrduderc
 ```
 
 ### Compile all sub-projects and upload a main.hex
