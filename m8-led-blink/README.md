@@ -14,16 +14,10 @@ $ sudo apt-get -y install avrdude gcc-avr binutils-avr avr-libc
 
 ### Compile and upload main.hex
 
-Type "make" to compile the C source code into the binary file "main.hex":
+Type "make" to compile the C source code into the binary file "main.hex" and "upload.sh" to upload the main.hex file to your ATmega8 CPU using avrdude:
 
 ```
-$ make
-```
-
-Upload main.hex to the ATmega8 CPU using avrdude:
-
-```
-$ sh upload.sh
+$ make && sh upload.sh
 ```
 
 ### Copyright / Contact

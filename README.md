@@ -4,7 +4,7 @@
 
 * [m8-led-blink](avr/tree/master/m8-led-blink) - ATmega8 LED blink test
 * [m8-led-usart](avr/tree/master/m8-led-usart) - ATmega8 LED blink USART test
-* [m8-i2c-enc](avr/tree/master/m8-i2c-enc)   - ATmega8 I2C rotary encoder
+* [m8-i2c-enc](avr/tree/master/m8-i2c-enc)   - ATmega8 rotary encoder I2C slave
 
 ## HOWTO get started
 
@@ -19,7 +19,7 @@ $ git co git://github.com/koppi/avr.git
 On Debian/Ubuntu install the following packages:
 
 ```
-$ sudo apt-get -y install avrdude gcc-avr binutils-avr avr-libc           
+$ sudo apt-get -y install avrdude gcc-avr binutils-avr avr-libc make
 ```
 
 ### Configure avrdude
