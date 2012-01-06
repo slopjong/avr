@@ -2,7 +2,7 @@
 
 ### circuit schematics
 
-![schematics.png](m8-led-blink/schematics.png)
+![schematics.png](../../raw/master/m8-led-blink/schematics.png)
 
 ### Directory contents
 
