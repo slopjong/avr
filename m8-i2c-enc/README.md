@@ -1,31 +1,29 @@
 # ATmega8 I2C rotary encoder test
 
-### Directory contents
+### Circuit schematics
 
-* main.c            # C source code for ATmega8
-* Makefile          # Makefile (defines F_CPU == 1Mhz!)
-* README.md         # this file
+To be done..
 
-### Build dependencies
+### Install build dependencies
 
 On Debian/Ubuntu install the following packages:
 
-```                                                                                                                                                            
-$ sudo apt-get -y install avrdude gcc-avr binutils-avr avr-libc                                                                                                
+```
+$ sudo apt-get -y install avrdude gcc-avr binutils-avr avr-libc
 ```
 
-### Compile main.hex
+### Compile and upload main.hex
 
 Type "make" to compile the C source code into the binary file "main.hex":
 
-```                                                                                                                                                            
-$ make                                                                                                                                                         
+```
+$ make
 ```
 
-### Upload to ATmega8 using avrdude
+Upload main.hex to the ATmega8 CPU using avrdude
 
-```                                                                                                                                                            
-$ sh upload.sh                                                                                                                                                 
+```
+$ sh upload.sh
 ```
 
 ### Copyright / Contact

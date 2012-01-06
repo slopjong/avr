@@ -1,17 +1,10 @@
 # ATmega8 LED blink test
 
-### circuit schematics
+### Circuit schematics
 
 ![schematics.png](../../raw/master/m8-led-blink/schematics.png)
 
-### Directory contents
-
-* schematics.png    # circuit schematics  image
-* main.c            # C source code for ATmega8
-* Makefile          # Makefile 
-* README.md         # this file
-
-### Build dependencies
+### Install build dependencies
 
 On Debian/Ubuntu install the following packages:
 
@@ -19,7 +12,7 @@ On Debian/Ubuntu install the following packages:
 $ sudo apt-get -y install avrdude gcc-avr binutils-avr avr-libc
 ```
 
-### Compile main.hex
+### Compile and upload main.hex
 
 Type "make" to compile the C source code into the binary file "main.hex":
 
@@ -27,7 +20,7 @@ Type "make" to compile the C source code into the binary file "main.hex":
 $ make
 ```
 
-### Upload to ATmega8 using avrdude
+Upload main.hex to the ATmega8 CPU using avrdude:
 
 ```
 $ sh upload.sh
