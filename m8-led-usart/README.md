@@ -1,5 +1,9 @@
 # ATmega8 LED blink USART test
 
+### Circuit schematics
+
+![schematics.png](avr/raw/master/m8-led-usart/schematics.png)
+
 ### Directory contents
 
 * cmd/              # serial cmd-line Linux tool

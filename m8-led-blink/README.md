@@ -1,5 +1,9 @@
 # ATmega8 LED blink test
 
+### circuit schematics
+
+![schematics.png](avr/raw/master/m8-led-blink/schematics.png)
+
 ### Directory contents
 
 * schematics.png    # circuit schematics  image
