@@ -2,8 +2,8 @@
 
 ## Contents
 
-* [m8-led-blink](avr/tree/master/m8-led-blink) - ATmega8 led blink
-* [m8-led-usart](avr/tree/master/m8-led-usart) - ATmega8 usart
+* [m8-led-blink](avr/tree/master/m8-led-blink) - ATmega8 LED blink test
+* [m8-led-usart](avr/tree/master/m8-led-usart) - ATmega8 LED blink USART test
 * [m8-i2c-enc](avr/tree/master/m8-i2c-enc)   - ATmega8 I2C rotary encoder
 
 ## HOWTO get started
