@@ -14,7 +14,25 @@ $ cp avrduderc ~/.avrduderc
 $ gedit avrduderc
 ```
 
-### Copyright / Contact
+## ATMEL datasheets
+
+### ATtiny45
+
+![t45.png](t45.png)
+
+### ATtiny2313
+
+![t2313.png](t2313.png)
+
+### ATmega8
+
+![m8.png](m8.png)
+
+### ATmega32
+
+![m32.png](m32.png)
+
+## Copyright / Contact
 
 Copyright GPL 2005-2012 by [Jakob Flierl](https://github.com/koppi)
 
