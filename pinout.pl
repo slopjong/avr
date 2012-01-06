@@ -140,12 +140,12 @@ sub pinout_t45 {
 	}
 	# pin numbers right
 	for (my $p = 1; $p <= 4; $p++) {
-		$svg->appendChild(svg_text(606-32, 102+($p - 1)*32+16, 9-$p));
+		$svg->appendChild(svg_text(618-32, 102+($p - 1)*32+16, 9-$p));
 	}
 	# title
 	$svg->appendChild(svg_text(534, 62, "ATtiny45", "c"));
 	# cut
-	$svg->appendChild(svg_path("m 555,87 a 20,20 0 1 1 -40,0",
+	$svg->appendChild(svg_path("m 555,86 a 20,20 0 1 1 -40,0",
 							   "fill:".$fill.";stroke:black;stroke-width:4"));
 	# ^RESET (PB5)
 	$svg->appendChild(svg_line(208, 98, 69, 0,"stroke:black;stroke-width:2"));
@@ -285,7 +285,7 @@ sub pinout_m8 {
 	# title
 	$svg->appendChild(svg_text(384, 62, "ATmega8", "c"));
 	# cut
-	$svg->appendChild(svg_path("m 405,94 a 20,20 0 1 1 -40,0",
+	$svg->appendChild(svg_path("m 405,93 a 20,20 0 1 1 -40,0",
 							   "fill:".$fill.";stroke:black;stroke-width:4"));
 	# ^reset (PC6)
 	$svg->appendChild(svg_line(148, 120, 72, 0,"stroke:black;stroke-width:2"));
@@ -358,7 +358,7 @@ sub pinout_m32 {
 	# title
 	$svg->appendChild(svg_text(308, 62, "ATmega32", "c"));
 	# cut
-	$svg->appendChild(svg_path("m 330,94 a 20,20 0 1 1 -40,0",
+	$svg->appendChild(svg_path("m 330,93 a 20,20 0 1 1 -40,0",
 							   "fill:".$fill.";stroke:black;stroke-width:4"));
 	# ^RESET
 	$svg->appendChild(svg_line(130, 394, 72, 0,"stroke:black;stroke-width:2"));
