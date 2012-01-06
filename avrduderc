@@ -1,0 +1,6 @@
+# koppi's avrduderc
+
+default_programmer = "avrispmkII"; 
+default_serial = "usb";
+
+

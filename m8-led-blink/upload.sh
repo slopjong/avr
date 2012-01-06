@@ -1,7 +1,8 @@
 #!/bin/sh
 
-# serial bit banger
-#sudo avrdude -c ponyser -P /dev/ttyUSB0 -p m8 -U main.hex
+# Configure avrdude via ~/.avrduderc !
+#
+# default_programmer = "avrispmkII";
+# default_serial = "usb";
 
-# usbprog / avrispmk2 clone
-sudo avrdude -c avrispmkII -P usb       -p m8 -U main.hex
+sudo avrdude -p m8 -U main.hex
