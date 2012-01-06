@@ -2,7 +2,7 @@
 
 ### circuit schematics
 
-![schematics.png](avr/raw/master/m8-led-blink/schematics.png)
+![schematics.png](m8-led-blink/schematics.png)
 
 ### Directory contents
 

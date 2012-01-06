@@ -2,7 +2,7 @@
 
 ### Circuit schematics
 
-![schematics.png](avr/raw/master/m8-led-usart/schematics.png)
+![schematics.png](m8-led-usart/schematics.png)
 
 ### Directory contents
 
