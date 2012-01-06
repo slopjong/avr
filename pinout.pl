@@ -62,6 +62,7 @@ if ($cmd !~ /^($cmds)$/) {u("valid --cmd [$cmds]")}
 
 # bg and fill
 my $bg = "#f8f8f8"; my $fill = "#ffffff";
+my $corner = "fill:none;stroke:#cccccc;stroke-width:2";
 
 if ($cmd eq "pinout") {
 	my $subcmd = shift || "list";
@@ -100,7 +101,8 @@ sub pinout_t45 {
     $svg->setAttribute("xmlns:xlink", "http://www.w3.org/1999/xlink");
 
 	# background
-	$svg->appendChild(svg_rect(1, 1, $resX - 2, $resY - 2,5,5,"fill:".$bg.";stroke:#fcfcfc;stroke-width:1"));
+	$svg->appendChild(svg_rect(3, 3, $resX - 6, $resY - 6,5,5,"fill:".$bg));
+	$svg->appendChild(svg_rect(3, 3, $resX - 6, $resY - 6,5,5,$corner));
 
 	for my $x ((444, 609)) {
 		for (my $y = 0; $y < 4; $y++) {
@@ -172,7 +174,8 @@ sub pinout_t2313 {
     $svg->setAttribute("xmlns:xlink", "http://www.w3.org/1999/xlink");
 
 	# background
-	$svg->appendChild(svg_rect(1, 1, $resX - 2, $resY - 2,5,5,"fill:".$bg.";stroke:#fcfcfc;stroke-width:1"));
+	$svg->appendChild(svg_rect(3, 3, $resX - 6, $resY - 6,5,5,"fill:".$bg));
+	$svg->appendChild(svg_rect(3, 3, $resX - 6, $resY - 6,5,5,$corner));
 
 	for my $x ((294, 459)) {
 		for (my $y = 0; $y <= 9; $y++) {
@@ -239,7 +242,8 @@ sub pinout_m8 {
     $svg->setAttribute("xmlns:xlink", "http://www.w3.org/1999/xlink");
 
 	# background
-	$svg->appendChild(svg_rect(1, 1, $resX - 2, $resY - 2,5,5,"fill:".$bg.";stroke:#fcfcfc;stroke-width:1"));
+	$svg->appendChild(svg_rect(3, 3, $resX - 6, $resY - 6,5,5,"fill:".$bg));
+	$svg->appendChild(svg_rect(3, 3, $resX - 6, $resY - 6,5,5,$corner));
 
 	for my $x ((284, 470)) {
 		for (my $y = 0; $y <= 13; $y++) {
@@ -308,7 +312,8 @@ sub pinout_m32 {
     $svg->setAttribute("xmlns:xlink", "http://www.w3.org/1999/xlink");
 
 	# background
-	$svg->appendChild(svg_rect(1, 1, $resX - 2, $resY - 2,5,5,"fill:".$bg.";stroke:#fcfcfc;stroke-width:1"));
+	$svg->appendChild(svg_rect(3, 3, $resX - 6, $resY - 6,5,5,"fill:".$bg));
+	$svg->appendChild(svg_rect(3, 3, $resX - 6, $resY - 6,5,5,$corner));
 
 	for my $x ((209, 395)) {
 		for (my $y = 0; $y < 20; $y++) {
