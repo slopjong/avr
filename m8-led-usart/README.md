@@ -9,7 +9,7 @@
 On Debian/Ubuntu install the following packages:
 
 ```
-$ sudo apt-get -y install avrdude gcc-avr binutils-avr avr-libc
+$ sudo apt-get -y install avrdude gcc-avr binutils-avr avr-libc make
 ```
 
 ### Compile and upload main.hex
