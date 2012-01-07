@@ -30,6 +30,26 @@ AVRISP  PINHD-1X6/90      1X06/90           PIN HEADER
 AVR_ISP AVR_SPI_PROG2LOCK 2X5-SHROUDED_LOCK AVR ICSP Header
 ```
 
+### Eagle library parts
+
+When designing your AVR board, you can take the 1.27mm ISP adapter definition from the SparkFun Eagle Library [SparkFun.lbr](https://github.com/sparkfun/SparkFun-Eagle-Library) available at GitHub.
+
+The 1.27mm 6-pin SMD ISP connector is called "AVR_PROGMINISMD" in SparkFun.lbr. You can add the part to your Eagle schematics with the following command:
+
+```
+add AVR_PROGMINISMD
+```
+
+![con-isp-pin6-smd.png](../../../../raw/master/eagle/projects/con-isp-pin6/con-isp-pin6-smd.png)
+
+The 2.54mm 6-pin ISP connector part is called "PINHD-1X6" (or "PINHD-1X6/90" for the rotated version) in the Eagle pinhead.lbr. You can add the part to your Eagle schematics with the following command:
+
+```
+add PINHD-1X6
+```
+
+![con-isp-pin6-dil.png](../../../../raw/master/eagle/projects/con-isp-pin6/con-isp-pin6-dil.png)
+
 ### Copyright / Contact
 
 Copyright GPL 2005-2012 by [Jakob Flierl](https://github.com/koppi)
