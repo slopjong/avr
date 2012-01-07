@@ -1,4 +1,4 @@
-# AVR ISP to PIN6 adapter
+# AVR ISP to PIN6 2.54mm and 1.27mm adapter board
 
 This adapter board is very useful if you use AVR’s with breadboards or you want to program AVRs on smaller SMD boards.
 
