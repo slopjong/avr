@@ -2,11 +2,11 @@
 
 ### Circuit schematics
 
-![con-isp-pin6-sch.png](../../../raw/master/eagle/projects/con-isp-pin6/con-isp-pin6-sch.png)
+![con-isp-pin6-sch.png](../../../../raw/master/eagle/projects/con-isp-pin6/con-isp-pin6-sch.png)
 
 ### Board layout
 
-![con-isp-pin6-brd.png](../../../raw/master/eagle/projects/con-isp-pin6/con-isp-pin6-brd.png)
+![con-isp-pin6-brd.png](../../../../raw/master/eagle/projects/con-isp-pin6/con-isp-pin6-brd.png)
 
 ### Copyright / Contact
 
