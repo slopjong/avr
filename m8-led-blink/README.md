@@ -4,7 +4,7 @@
 
 ![m8-led-blink-sch.png](../../raw/master/eagle/projects/m8-led-blink/m8-led-blink-sch.png)
 
-A detailed description and the PCB layout can be found in the [eagle/projects/m8-led-blink](../../raw/master/eagle/projects/m8-led-blink) folder.
+A detailed description and the PCB layout can be found in the [eagle/projects/m8-led-blink](../../raw/master/eagle/projects/m8-led-blink) folder. The "ISP_PIN6" connector pinouts can be found in the [eagle/projects/con-isp-pin6](../../raw/master/eagle/projects/con-isp-pin6) folder.
 
 ### Install build dependencies
 
