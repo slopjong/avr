@@ -25,7 +25,7 @@ $ git clone git://github.com/koppi/avr.git
 On Debian/Ubuntu install the following packages:
 
 ```
-$ sudo apt-get -y install avrdude gcc-avr binutils-avr avr-libc make
+$ sudo apt-get -y install avrdude gcc-avr binutils-avr avr-libc make usbprog
 ```
 
 ### Configure avrdude
