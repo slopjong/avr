@@ -2,14 +2,16 @@
 
 ### Circuit schematics
 
-![schematics.png](../../raw/master/m8-led-blink/schematics.png)
+![m8-led-blink-sch.png](../../raw/master/eagle/projects/m8-led-blink/m8-led-blink-sch.png)
+
+A detailed description and the PCB layout can be found in the [eagle/projects/m8-led-blink](../../raw/master/eagle/projects/m8-led-blink) folder.
 
 ### Install build dependencies
 
 On Debian/Ubuntu install the following packages:
 
 ```
-$ sudo apt-get -y install avrdude gcc-avr binutils-avr avr-libc make
+$ sudo apt-get -y install avrdude gcc-avr binutils-avr avr-libc usbprog make
 ```
 
 ### Compile and upload main.hex
