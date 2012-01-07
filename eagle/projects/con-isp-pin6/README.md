@@ -12,13 +12,13 @@ The adapter is compatible with the [SparkFun AVR Programming Adapter](http://www
 
 ### Board layout top
 
-![con-isp-pin6-brd-top.png](../../../../raw/master/eagle/projects/con-isp-pin6/con-isp-pin6-brd.png)
+![con-isp-pin6-brd-top.png](../../../../raw/master/eagle/projects/con-isp-pin6/con-isp-pin6-brd-top.png)
 
 For the 2.54mm 6-pin array, the pin names are on the top of the PCB.
 
 ### Board layout bottom
 
-![con-isp-pin6-brd-bot.png](../../../../raw/master/eagle/projects/con-isp-pin6/con-isp-pin6-brd.png)
+![con-isp-pin6-brd-bot.png](../../../../raw/master/eagle/projects/con-isp-pin6/con-isp-pin6-brd-bot.png)
 
 For the 1.27mm 6-pin array, the pin names are on the bottom of the PCB.
 
