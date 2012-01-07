@@ -2,7 +2,7 @@
 
 This board is very useful if you want to get started with programming AVR’s.
 
-The board contains two LEDs, which can then be controlled in your C program. See [avr/m8-led-blink](../../../../raw/master/m8-led-blink) for the C source code "main.c".
+The board contains two LEDs, which can then be controlled in your C program. See [avr/m8-led-blink](../../../../tree/master/m8-led-blink) for the C source code "main.c".
 
 ### Circuit schematics
 
