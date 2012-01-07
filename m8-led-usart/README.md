@@ -2,7 +2,7 @@
 
 ### Circuit schematics
 
-![schematics.png](../../raw/master/m8-led-blink/schematics.png)
+To be done..
 
 ### Install build dependencies
 
