@@ -2,9 +2,15 @@
 
 ## Contents
 
+AVR projects
+
 * [m8-led-blink](avr/tree/master/m8-led-blink) - ATmega8 LED blink test
 * [m8-led-usart](avr/tree/master/m8-led-usart) - ATmega8 LED blink USART test
 * [m8-i2c-enc](avr/tree/master/m8-i2c-enc)   - ATmega8 rotary encoder I2C slave
+
+AVR boards
+
+* [con-isp-pin6](avr/tree/master/eagle/projects/con-isp-pin6) - AVR ISP PIN6 adapter
 
 ## HOWTO get started
 

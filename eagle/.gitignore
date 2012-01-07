@@ -1,2 +1,5 @@
 *.b#?
 *.s#?
+*.dsn
+projects/*/*.scr
+eagle.epf
