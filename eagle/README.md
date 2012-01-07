@@ -1,5 +1,11 @@
 ## Eagle HOWTOs
 
+### HOWTO install Eagle and EDA tools on Ubuntu 11.10
+
+```
+$ sudo apt-get -y install eagle gerbv openjdk-6-jdk
+```
+
 ### HOWTO setup the ~/eagle directory with the avr repository
 
 Go to your home directory and add a symbolic link to the avr/eagle directory:
@@ -41,6 +47,8 @@ Next, start FreeRouting either from your browser or on the terminal:
 ```
 $ javaws http://www.freerouting.net/java/freeroute.jnlp
 ```
+
+Run the AutoRouter and save as an Eagle SCR script. Next, open the script in the Eagle board layouter.
 
 ### HOWTO git sub-modules
 
