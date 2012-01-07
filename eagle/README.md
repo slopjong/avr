@@ -24,3 +24,28 @@ Setup the eagle directories as follows. Add the "$HOME/eagle/..." paths to "Libr
 * run bom.ulp
 * export partlist
 
+### HOWTO auto-route your PCB with FreeRouting
+
+[FreeRouting](http://www.freerouting.net/) is a printed circuit board routing software. The speed of the FreeRouting autorouter is still a bit slow, but the quality of the routing results is very good when compared with the results of the Eagle autorouter.
+
+First install Java 1.6:
+
+```
+$ sudo apt-get -y install openjdk-6-jdk
+```
+
+Next, convert the Eagle brd file into a dsn file for the FreeRouting autorouter. Open the ulp script "[brd_to_dsn.ulp](http://www.freerouting.net/download/brd_to_dsn.ulp)" with your Eagle brd layout, the latest version of this script is available at [http://www.freerouting.net/index.php?page=eagle](http://www.freerouting.net/index.php?page=eagle) and save the dsn file into your eagle project directory.
+
+Next, start FreeRouting either from your browser or on the terminal:
+
+```
+$ javaws http://www.freerouting.net/java/freeroute.jnlp
+```
+
+### HOWTO git sub-modules
+
+The eagle directory contains the following git sub-modules:
+
+*   eagle/lbr/sparkfun-git: SparkFun Eagle Footprint Library:
+
+    git://github.com/sparkfun/SparkFun-Eagle-Library.git
