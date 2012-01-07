@@ -1,5 +1,7 @@
 *.b#?
 *.s#?
 *.dsn
+*.dru
+*.pdf
 projects/*/*.scr
 eagle.epf
