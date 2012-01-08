@@ -30,7 +30,7 @@ R2       1k      R-EU_0207/2V 0207/2V RESISTOR 1k
 R3       10k     R-EU_0207/2V 0207/2V RESISTOR 10k
 ```
 
-*   Reichelt order list: [m8-led-blink-dil](http://www.reichelt.de/?ACTION=20;AWKID=524840;PROVID=2084), price: 12.54 EUR.
+*   Reichelt order list: [m8-led-blink-dil](http://www.reichelt.de/?ACTION=20;AWKID=524851;PROVID=2084), price: 12.62 EUR.
 
     Notice, the m8-led-blink-dil order list also contains two IC test sockets, which might be useful for breadboard based test circuit experiments and general AVR programming: [DIL 28 NG](http://www.reichelt.de/index.html?ACTION=3;ARTICLE=113267), price: 5.30 EUR, [NIF 28](http://www.reichelt.de/index.html?;ACTION=3;LA=5010;ARTICLE=13450), price: 3.70 EUR.
 
