@@ -1,4 +1,4 @@
-# ATmega8 LED blink test board
+# ATmega8 LED blink DIL test board
 
 This board is very useful if you want to get started with programming AVR’s.
 
