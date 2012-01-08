@@ -30,7 +30,7 @@ AVRISP  PINHD-1X6/90      1X06/90           PIN HEADER
 AVR_ISP AVR_SPI_PROG2LOCK 2X5-SHROUDED_LOCK AVR ICSP Header
 ```
 
-* Reichelt order list - [con-isp-pin6](https://secure.reichelt.de/index.html?;ACTION=20;AWKID=524822;PROVID=2084). Sum 0.67 EUR.
+* Reichelt order list - [con-isp-pin6](https://secure.reichelt.de/index.html?;ACTION=20;AWKID=524822;PROVID=2084), price 0.67 EUR.
 
 ### Eagle library parts
 
