@@ -11,11 +11,11 @@ The board's ATmega8 is connected to the board components as follows:
 * LED1 - ATmega8 PD5
 * LED2 - ATmega8 PD6
 
-![m8-led-blink-sch.png](../../../../raw/master/eagle/projects/m8-led-blink/m8-led-blink-sch.png)
+![m8-led-blink-dil-sch.png](../../../../raw/master/eagle/projects/m8-led-blink-dil/m8-led-blink-dil-sch.png)
 
 ### Board layout
 
-![m8-led-blink-brd.png](../../../../raw/master/eagle/projects/m8-led-blink/m8-led-blink-brd.png)
+![m8-led-blink-dil-brd.png](../../../../raw/master/eagle/projects/m8-led-blink-dil/m8-led-blink-dil-brd.png)
 
 ### Bill of Material
 

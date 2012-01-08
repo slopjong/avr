@@ -1,5 +1,5 @@
 C=convert -density 1200 -scale 848
-B=m8-led-blink
+B=m8-led-blink-dil
 
 all:
 	$(C) $(B)-sch.pdf $(B)-sch.png

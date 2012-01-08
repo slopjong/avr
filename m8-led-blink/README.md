@@ -4,7 +4,7 @@
 
 ![m8-led-blink-sch.png](../../raw/master/eagle/projects/m8-led-blink/m8-led-blink-sch.png)
 
-A detailed description and the PCB layout can be found in the [eagle/projects/m8-led-blink](../../tree/master/eagle/projects/m8-led-blink) folder. The "ISP_PIN6" connector pinouts are documented in the [AVR ISP PIN6 adapter](../../tree/master/eagle/projects/con-isp-pin6) board folder.
+A detailed description of the schematics and the PCB layout can be found in the [eagle/projects/m8-led-blink-dil](../../tree/master/eagle/projects/m8-led-blink-dil) and [eagle/projects/m8-led-blink-smd](../../tree/master/eagle/projects/m8-led-blink-smd) folders. The "ISP_PIN6" connector pinouts are documented in the [AVR ISP PIN6 adapter](../../tree/master/eagle/projects/con-isp-pin6) board folder.
 
 ### Install build dependencies
 

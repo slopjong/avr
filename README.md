@@ -2,16 +2,16 @@
 
 ## Contents
 
-AVR projects
+AVR firmware source code
 
-* [m8-led-blink](avr/tree/master/m8-led-blink) - ATmega8 LED blink test
-* [m8-led-usart](avr/tree/master/m8-led-usart) - ATmega8 LED blink USART test
-* [m8-i2c-enc](avr/tree/master/m8-i2c-enc)   - ATmega8 rotary encoder I2C slave
+* ATmega8 LED blink test - [m8-led-blink](avr/tree/master/m8-led-blink)
+* ATmega8 LED blink USART test - [m8-led-usart](avr/tree/master/m8-led-usart)
+* ATmega8 rotary encoder I2C slave - [m8-i2c-enc](avr/tree/master/m8-i2c-enc)
 
-AVR boards
+AVR board schematics and layouts
 
 * AVR ISP PIN6 adapter board - [con-isp-pin6](avr/tree/master/eagle/projects/con-isp-pin6)
-* ATmega8 LED blink test board - [m8-led-blink](avr/tree/master/eagle/projects/m8-led-blink) (DIL version), [m8-led-blink-smd](avr/tree/master/eagle/projects/m8-led-blink-smd) (SMD version)
+* ATmega8 LED blink test board - [m8-led-blink-dil](avr/tree/master/eagle/projects/m8-led-blink-dil), [m8-led-blink-smd](avr/tree/master/eagle/projects/m8-led-blink-smd)
 
 ## HOWTO get started
 
