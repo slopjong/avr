@@ -10,8 +10,8 @@ AVR projects
 
 AVR boards
 
-* [con-isp-pin6](avr/tree/master/eagle/projects/con-isp-pin6) - AVR ISP PIN6 adapter board
-* [m8-led-blink](avr/tree/master/eagle/projects/m8-led-blink) - ATmega8 LED blink test board
+* AVR ISP PIN6 adapter board - [con-isp-pin6](avr/tree/master/eagle/projects/con-isp-pin6)
+* ATmega8 LED blink test board - [m8-led-blink](avr/tree/master/eagle/projects/m8-led-blink) (DIL version), [m8-led-blink-smd](avr/tree/master/eagle/projects/m8-led-blink-smd) (SMD version)
 
 ## HOWTO get started
 
