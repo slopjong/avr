@@ -32,6 +32,8 @@ R2      1k                      R-EU_R1206              R1206           RESISTOR
 R3      10k                     R-EU_M1206              M1206           RESISTOR, European symbol       1
 ```
 
+*   Reichelt order list: [m8-led-blink-smd](http://www.reichelt.de/?ACTION=20;AWKID=524859;PROVID=2084) price: 3.06 EUR.
+
 ### Copyright / Contact
 
 Copyright GPL 2005-2012 by [Jakob Flierl](https://github.com/koppi)
