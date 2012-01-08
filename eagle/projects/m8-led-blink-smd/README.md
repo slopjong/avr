@@ -15,9 +15,9 @@ The board's ATmega8 is connected to the board components as follows:
 
 ### Board layout
 
-![m8-led-blink-smd-brd-top.png](../../../../raw/master/eagle/projects/m8-led-blink/m8-led-blink-smd-brd-top.png)
+![m8-led-blink-smd-brd-top.png](../../../../raw/master/eagle/projects/m8-led-blink-smd/m8-led-blink-smd-brd-top.png)
 
-![m8-led-blink-smd-brd-bot.png](../../../../raw/master/eagle/projects/m8-led-blink/m8-led-blink-smd-brd-bot.png)
+![m8-led-blink-smd-brd-bot.png](../../../../raw/master/eagle/projects/m8-led-blink-smd/m8-led-blink-smd-brd-bot.png)
 
 ### Bill of Material
 
