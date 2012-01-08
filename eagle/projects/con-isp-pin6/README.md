@@ -30,6 +30,8 @@ AVRISP  PINHD-1X6/90      1X06/90           PIN HEADER
 AVR_ISP AVR_SPI_PROG2LOCK 2X5-SHROUDED_LOCK AVR ICSP Header
 ```
 
+* Reichelt order list - [con-isp-pin6](https://secure.reichelt.de/index.html?;ACTION=20;AWKID=524822;PROVID=2084). Sum 0.67 EUR.
+
 ### Eagle library parts
 
 When designing your AVR board, you can take the 1.27mm ISP adapter definition from the SparkFun Eagle Library [SparkFun.lbr](https://github.com/sparkfun/SparkFun-Eagle-Library) available at GitHub.
