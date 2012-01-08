@@ -11,7 +11,7 @@ AVR firmware source code
 AVR board schematics and layouts
 
 * AVR ISP PIN6 adapter board - [con-isp-pin6](avr/tree/master/eagle/projects/con-isp-pin6)
-* ATmega8 LED blink test board - [m8-led-blink-dil](avr/tree/master/eagle/projects/m8-led-blink-dil), [m8-led-blink-smd](avr/tree/master/eagle/projects/m8-led-blink-smd)
+* ATmega8 LED blink test boards - DIL version: [m8-led-blink-dil](avr/tree/master/eagle/projects/m8-led-blink-dil), SMD version: [m8-led-blink-smd](avr/tree/master/eagle/projects/m8-led-blink-smd)
 
 ## HOWTO get started
 
