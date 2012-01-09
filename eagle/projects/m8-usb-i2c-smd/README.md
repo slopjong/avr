@@ -2,9 +2,7 @@
 
 This board is very useful if you want to get started with some I2C protocol based components, e.g. temperature sensors, port expanders and flash ICs.
 
-The board contains a 2x5-pin connector for 5V, GND, SDA, SCL and an USB type B connector. See [avr/m8-usb-i2c](../../../../tree/master/m8-usb-i2c) for the firmware source code for this adapter's ATmega8 CPU.
-
-The USB firmware is compatible with Till Harbaum's usb-tiny45-irc board. With Linux, you do not need any extra kernel modules, as this board already has a kernel module in the vanilla Linux kernel.
+The board contains a 2x5-pin connector for 5V, GND, SDA, SCL and an USB type B connector. See [avr/m8-usb-i2c](../../../../tree/master/m8-usb-i2c) for the source code of the firmware for this adapter's ATmega8 CPU. The USB firmware is compatible with Till Harbaum's [usb-tiny45-i2c](http://www.harbaum.org/till/i2c_tiny_usb) board. With Linux, you do not need any extra kernel modules, as this board already has a kernel module in the vanilla Linux kernel.
 
 ### Circuit schematics
 
