@@ -1,0 +1,22 @@
+Partlist exported from /home/koppi/Dropbox/avr/eagle/projects/m8-usb-i2c-smd/m8-usb-i2c-smd.sch at 1/9/12 2:03 AM
+
+Part Value            Device           Package       Description                         
+C1   22pF             C-EUC1206        C1206         CAPACITOR, European symbol          
+C2   22pF             C-EUC1206        C1206         CAPACITOR, European symbol          
+C3   100nF            C-EUC1206        C1206         CAPACITOR, European symbol          
+C4   10uF             CPOL-EUSMCC      SMC_C         POLARIZED CAPACITOR, European symbol
+D1   3.6v             ZENER-DIODESOT23 SOT23         Z-Diode                             
+D2   3.6v             ZENER-DIODESOT23 SOT23         Z-Diode                             
+I2C                   ML10             ML10          HARTING                             
+IC1  MEGA8-AI         MEGA8-AI         TQFP32-08     MICROCONTROLLER                     
+PWR                   LEDCHIPLED_1206  CHIPLED_1206  LED                                 
+R1   2K2              R-EU_R1206       R1206         RESISTOR, European symbol           
+R2   68R              R-EU_R1206       R1206         RESISTOR, European symbol           
+R3   68R              R-EU_R1206       R1206         RESISTOR, European symbol           
+R4   10K              R-EU_R1206       R1206         RESISTOR, European symbol           
+R5   10K              R-EU_R1206       R1206         RESISTOR, European symbol           
+R6   220R             R-EU_R1206       R1206         RESISTOR, European symbol           
+R7   10K              R-EU_R1206       R1206         RESISTOR, European symbol           
+U$1  AVR_MINI_PROGSMD AVR_MINI_PROGSMD AVR_MINI_PROG                                     
+X1                    PN61729          PN61729       BERG USB connector                  
+XTAL 12MHZ            CRYSTALHC49S     HC49/S        CRYSTAL                             
