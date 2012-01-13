@@ -2,7 +2,7 @@
 
 There was an interesting article called [THE TRUTH ABOUT LATENCY - Soft Synth Latency And Latency Jitter: Real-world Tests](http://www.soundonsound.com/sos/Sep02/articles/pcmusician0902.asp) in the Sound On Sound magazine, September 2002.
 
-The adapter board below is very useful if you want to measure the latency of your midi controlled synth. Simply connect the board's Midi In to your Keyboard, the board's Midi Out to your synth. And the board's audio connector to your soundcard's right microphone or line-in channel.
+The adapter board below is very useful if you want to measure the latency of your midi controlled synth. Simply connect the board's Midi In to your Keyboard, the board's Midi Out to your synth. And the board's audio connector to your soundcard's right microphone or line-in channel as shown in the following figure:
 
 ![2000-09-sos-con.png](../../../../raw/master/eagle/projects/midi-to-audio/2000-09-sos-con.png)
 
@@ -14,7 +14,7 @@ This works with hardware and software synths.
 
 ### Order your midi-to-audio adapter
 
-The first batch of 56 adapters is in production. Go to the [order form](https://docs.google.com/spreadsheet/viewform?hl=en_US&formkey=dGhXZGtpOGRWU2lNNGhZal93R1BjQVE6MQ) to register for the next batch. We will contact you back when we're ready for the next batch run.
+The first batch of 56 adapters is in production. Go to the [order form](https://docs.google.com/spreadsheet/viewform?hl=en_US&formkey=dGhXZGtpOGRWU2lNNGhZal93R1BjQVE6MQ) to register for the next batch. We will contact you back when we're ready for the next batch run in 02/2012.
 
 ### Circuit schematics
 
