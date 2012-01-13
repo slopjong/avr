@@ -28,6 +28,12 @@ R1      5.1k   R-EU_0207/10 0207/10 RESISTOR
 
 *   Reichelt order list: [midi-to-audio](http://www.reichelt.de/?ACTION=20;AWKID=527545;PROVID=2084) price: 1.52 EUR.
 
+### Gerber files (7x2)
+
+The directory workspace/ (linked above) contains a gerber files for the tiled version (7x2 boards) for 100x160mm euro PCB format.
+
+![midi-to-audio-ger.png](../../../../raw/master/eagle/projects/midi-to-audio/midi-to-audio-ger.png)
+
 ### Copyright / Contact
 
 Copyright GPL 2005-2012 by [Jakob Flierl](https://github.com/koppi)
