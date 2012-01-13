@@ -16,6 +16,9 @@ This works with hardware and software synths.
 
 The first batch of 56 adapters is in production. Go to the [order form](https://docs.google.com/spreadsheet/viewform?hl=en_US&formkey=dGhXZGtpOGRWU2lNNGhZal93R1BjQVE6MQ) to register for the next batch. We will contact you back when we're ready for the next batch run in 02/2012.
 
+* batch 0: 2012-01-10 (prototypes) - 56 PCBs
+* batch 1: expected 2012-02-01 - xx PCBs
+
 ### Circuit schematics
 
 ![midi-to-audio-sch.png](../../../../raw/master/eagle/projects/midi-to-audio/midi-to-audio-sch.png)
