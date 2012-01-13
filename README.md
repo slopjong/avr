@@ -13,6 +13,7 @@ AVR board schematics and layouts
 * AVR ISP PIN6 adapter board - [con-isp-pin6](avr/tree/master/eagle/projects/con-isp-pin6)
 * ATmega8 LED blink test boards - DIL: [m8-led-blink-dil](avr/tree/master/eagle/projects/m8-led-blink-dil), SMD: [m8-led-blink-smd](avr/tree/master/eagle/projects/m8-led-blink-smd)
 * ATmega8 USB to I2C adapter board - SMD: [m8-usb-i2c-smd](avr/tree/master/eagle/projects/m8-usb-i2c-smd)
+* Midi to Audio latency measurement adapter board: [midi-to-audio](avr/tree/master/eagle/projects/midi-to-audio)
 
 ## HOWTO get started
 
