@@ -12,6 +12,10 @@ Next, start your favourite audio recording program, like Wavelab, Audacity or Ar
 
 This works with hardware and software synths.
 
+### Order your midi-to-audio adapter
+
+The first batch of 56 adapters is in production. Go to the [order form](https://docs.google.com/spreadsheet/viewform?hl=en_US&formkey=dGhXZGtpOGRWU2lNNGhZal93R1BjQVE6MQ) to register for the next batch. We will contact you back when we're ready for the next batch run.
+
 ### Circuit schematics
 
 ![midi-to-audio-sch.png](../../../../raw/master/eagle/projects/midi-to-audio/midi-to-audio-sch.png)
