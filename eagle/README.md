@@ -50,6 +50,10 @@ $ javaws http://www.freerouting.net/java/freeroute.jnlp
 
 Run the AutoRouter and save as an Eagle SCR script. Next, open the script in the Eagle board layouter.
 
+### HOWTO create gerber files in Eagle
+
+In Eagle go to "File -> Cam Processor ..". In the Cam Processor go to "File -> Open -> Job.." and select "eagle/ulp/gerb274x.cam". Next, click on "Process Job" and you're done.
+
 ### HOWTO git sub-modules
 
 The eagle directory contains the following git sub-modules:
@@ -57,3 +61,7 @@ The eagle directory contains the following git sub-modules:
 *   eagle/lbr/sparkfun-git: SparkFun Eagle Footprint Library:
 
     git://github.com/sparkfun/SparkFun-Eagle-Library.git
+
+*   eagle/lbr/adafruit-git: Adafruit Eagle Footprint Library:
+
+    git://github.com/adafruit/Adafruit-Eagle-Library.git
