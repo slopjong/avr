@@ -30,7 +30,7 @@ R1      5.1k   R-EU_0207/10 0207/10 RESISTOR
 
 ### Gerber files (7x2)
 
-The directory workspace/ (linked above) contains a gerber files for the tiled version (7x2 boards) for 100x160mm euro PCB format.
+The directory workspace/ (linked above) contains the gerber files for the tiled version (7x2 boards) for the 100x160mm euro format:
 
 ![midi-to-audio-ger.png](../../../../raw/master/eagle/projects/midi-to-audio/midi-to-audio-ger.png)
 
