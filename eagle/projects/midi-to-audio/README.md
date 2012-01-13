@@ -1,16 +1,16 @@
 # Midi to Audio latency measurement adapter board
 
-There was an interesting article called [THE TRUTH ABOUT LATENCY - Soft Synth Latency And Latency Jitter: Real-world Tests](http://www.soundonsound.com/sos/Sep02/articles/pcmusician0902.asp) in the Sound On Sound, September 2002.
+There was an interesting article called [THE TRUTH ABOUT LATENCY - Soft Synth Latency And Latency Jitter: Real-world Tests](http://www.soundonsound.com/sos/Sep02/articles/pcmusician0902.asp) in the Sound On Sound magazine, September 2002.
 
-The adapter board below is very useful if you want to measure the latency of your midi controlled synth. Simply connect the board's Midi In to your Keyboard, the board's Midi Out to your synth. And the board's Audio to your soundcard's microphone or line-in jack.
+The adapter board below is very useful if you want to measure the latency of your midi controlled synth. Simply connect the board's Midi In to your Keyboard, the board's Midi Out to your synth. And the board's audio connector to your soundcard's right microphone or line-in channel.
 
 ![2000-09-sos-con.png](../../../../raw/master/eagle/projects/midi-to-audio/2000-09-sos-con.png)
 
-Next, start your favourite audio recording program, like Wavelab, Audacity or Ardour:
+Next, start your favourite audio recording program, like Wavelab, Audacity or Ardour and play a note on your keyboard. Watch the Midi signals and the synth's audio signals and their relative offsets:
 
 ![2000-09-sos-lat.png](../../../../raw/master/eagle/projects/midi-to-audio/2000-09-sos-lat.png)
 
-Play a note on your keyboard and watch the relative latency offsets between the Midi signal and the synth's audio signal.
+This works with hardware and software synths.
 
 ### Circuit schematics
 
