@@ -14,10 +14,10 @@ This works with hardware and software synths.
 
 ### Order your midi-to-audio adapter
 
-The first batch of 56 adapters is in production. Go to the [order form](https://docs.google.com/spreadsheet/viewform?hl=en_US&formkey=dGhXZGtpOGRWU2lNNGhZal93R1BjQVE6MQ) to register for the next batch. We will contact you back when we're ready for the next batch run in 02/2012.
+Status: the first batch of 56 adapters is in production. 
 
-* batch 0: 2012-01-10 (prototypes) - 56 PCBs
-* batch 1: expected 2012-02-01 - xx PCBs
+* batch 0: 2012-01-10 (prototypes) - 56 PCBs - we're giving the prototypes away for free to Linux audio (like ALSA, Jack, PulseAudio, ..) developers.
+* batch 1: expected 2012-02-01 - xx PCBs. Go to the [order form](https://docs.google.com/spreadsheet/viewform?hl=en_US&formkey=dGhXZGtpOGRWU2lNNGhZal93R1BjQVE6MQ) to register for the next batch. We will contact you back when we're ready for the next batch run in 02/2012.
 
 ### Circuit schematics
 
