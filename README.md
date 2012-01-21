@@ -17,10 +17,10 @@ AVR board schematics and layouts
 
 ## HOWTO get started
 
-Checkout the master branch:
+Checkout the master branch and all it's included git-submodules:
 
 ```
-$ git clone git://github.com/koppi/avr.git
+$ git clone --recursive git://github.com/koppi/avr.git
 ```
 
 ### Install the build dependencies
