@@ -1,4 +1,4 @@
-# Koppi's AVR projects
+# Koppi's and Slopjong's AVR projects
 
 ## Contents
 
@@ -84,4 +84,4 @@ $ cd m8-led-blink; sh upload.sh
 ## Copyright / Contact
 
 Copyright GPL 2005-2012 by [Jakob Flierl](https://github.com/koppi)
-
+Copyright GPL 2012 by [Slopjong](https://github.com/slopjong)
