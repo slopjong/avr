@@ -6,4 +6,4 @@
 	url = https://github.com/adafruit/Adafruit-Eagle-Library
 [submodule "t2313-led-xmas-tree"]
 	path = t2313-led-xmas-tree
-	url = git://github.com/slopjong/blinkentree.git
+	url = git@github.com:slopjong/blinkentree.git
