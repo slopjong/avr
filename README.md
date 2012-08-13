@@ -20,7 +20,7 @@ AVR board schematics and layouts
 Checkout the master branch and all it's included git-submodules:
 
 ```
-$ git clone --recursive git://github.com/koppi/avr.git
+$ git clone --recursive git://github.com/slopjong/avr.git
 ```
 
 ### Install the build dependencies
@@ -59,27 +59,27 @@ $ cd m8-led-blink; sh upload.sh
 
 ### ATtiny45
 
-![t45.png](avr/raw/master/t45.png)
+![t45.png](avr/raw/master/pinouts/png/t45.png)
 
-[ATtiny45 PDF datesheet](avr/raw/master/t45.pdf)
+[ATtiny45 PDF datesheet](avr/raw/master/datasheets/t45.pdf)
 
 ### ATtiny2313
 
-![t2313.png](avr/raw/master/t2313.png)
+![t2313.png](avr/raw/master/pinouts/png/t2313.png)
 
-[ATtiny2313 PDF datesheet](avr/raw/master/t2313.pdf)
+[ATtiny2313 PDF datesheet](avr/raw/master/datasheets/t2313.pdf)
 
 ### ATmega8
 
-![m8.png](avr/raw/master/m8.png)
+![m8.png](avr/raw/master/pinouts/png/m8.png)
 
-[ATmega8 PDF datesheet](avr/raw/master/m8.pdf)
+[ATmega8 PDF datesheet](avr/raw/master/datasheets/m8.pdf)
 
 ### ATmega32
 
-![m32.png](avr/raw/master/m32.png)
+![m32.png](avr/raw/master/pinouts/png/m32.png)
 
-[ATmega32 PDF datesheet](avr/raw/master/m32.pdf)
+[ATmega32 PDF datesheet](avr/raw/master/datasheets/m32.pdf)
 
 ## Copyright / Contact
 
